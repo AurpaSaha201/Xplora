@@ -2,7 +2,7 @@ import React from 'react';
 import Navbar from "@/components/Navbar";
 import Hero from "@/components/Hero";
 import AdventureCards from "@/components/AdventureCards";
-// import FeaturedDestinations from "@/components/FeaturedDestinations";
+ import FeaturedDestinations from "@/components/FeaturedDestinations";
 // import AdventureStories from "@/components/AdventureStories";
 
 
@@ -17,8 +17,8 @@ export default function Home() {
       <Navbar />
       <Hero />
       <AdventureCards />
-      {/* <FeaturedDestinations />
-      <AdventureStories />
+       <FeaturedDestinations />
+     {/* <AdventureStories />
    
      <JournalSection/>
       <GlobalNavigator/>
