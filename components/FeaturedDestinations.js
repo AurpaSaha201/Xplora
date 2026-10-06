@@ -109,40 +109,32 @@ const destinations = [
   {
     title: "পাহাড় (Mountains)",
     subtitle: "Majestic Peaks & Valleys",
-    description:
-      "Scale high-altitude summits and witness breathtaking cloudscapes above the world.",
-    image:
-      "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=800&auto=format&fit=crop",
+    description:"Scale high-altitude summits and witness breathtaking cloudscapes above the world.",
+    image:"https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=800&auto=format&fit=crop",
     icon: Mountain,
     badge: "High Altitude",
   },
   {
     title: "বন (Forests)",
     subtitle: "Deep Jungle Canopies",
-    description:
-      "Venture deep into ancient green sanctuaries filled with rare wildlife and serenity.",
-    image:
-      "https://images.unsplash.com/photo-1448375240586-882707db888b?q=80&w=800&auto=format&fit=crop",
+    description:"Venture deep into ancient green sanctuaries filled with rare wildlife and serenity.",
+    image:"https://images.unsplash.com/photo-1448375240586-882707db888b?q=80&w=800&auto=format&fit=crop",
     icon: Trees,
     badge: "Wild Sanctuary",
   },
   {
     title: "দ্বীপ (Islands)",
     subtitle: "Untouched Tropical Coves",
-    description:
-      "Relax on pristine white-sand shores surrounded by turquoise ocean waters.",
-    image:
-      "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=800&auto=format&fit=crop",
+    description:"Relax on pristine white-sand shores surrounded by turquoise ocean waters.",
+    image:"https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=800&auto=format&fit=crop",
     icon: Palmtree,
     badge: "Island Life",
   },
   {
     title: "ঝরনা (Waterfall)",
     subtitle: "Roaring Cascades",
-    description:
-      "Discover crystal-clear cascading waters hidden deep inside lush tropical paradises.",
-    image:
-      "https://images.unsplash.com/photo-1525824236856-8c0a31dfe3be?fm=jpg&q=60&w=3000&auto=format&fit=crop",
+    description:"Discover crystal-clear cascading waters hidden deep inside lush tropical paradises.",
+    image:"https://images.unsplash.com/photo-1525824236856-8c0a31dfe3be?fm=jpg&q=60&w=3000&auto=format&fit=crop",
     icon: Waves,
     badge: "Hidden Gems",
   },

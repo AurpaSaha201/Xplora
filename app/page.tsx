@@ -9,7 +9,7 @@ import AdventureCards from "@/components/AdventureCards";
 // import JournalSection from "@/components/JournalSection";
 // import GlobalNavigator from "@/components/GlobalNavigator";
 // import TripPackages from "@/components/TripPackages";
- //import Footer from "@/components/Footer";
+ import Footer from "@/components/Footer";
 
 export default function Home() {
   return (
@@ -22,8 +22,8 @@ export default function Home() {
    
      <JournalSection/>
       <GlobalNavigator/>
-      <TripPackages /><Footer />*/}
-      
+      <TripPackages />*/}
+      <Footer />
 
       
     </main>
