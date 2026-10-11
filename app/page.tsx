@@ -22,7 +22,7 @@ export default function Home() {
       <AdventureStories />
       <JournalSection/>
      
-      {/* <GlobalNavigator/> */}
+      <GlobalNavigator/> 
       <TripPackages />
       <Footer />
 
