@@ -7,8 +7,9 @@ import AdventureCards from "@/components/AdventureCards";
 
 
  import JournalSection from "@/components/JournalSection";
-// import GlobalNavigator from "@/components/GlobalNavigator";
-// import TripPackages from "@/components/TripPackages";
+//
+//import GlobalNavigator from "@/components/GlobalNavigator";
+import TripPackages from "@/components/TripPackages";
  import Footer from "@/components/Footer";
 
 export default function Home() {
@@ -20,9 +21,9 @@ export default function Home() {
        <FeaturedDestinations />
       <AdventureStories />
       <JournalSection/>
-     {/*
-      <GlobalNavigator/>
-      <TripPackages />*/}
+     
+      {/* <GlobalNavigator/> */}
+      <TripPackages />
       <Footer />
 
       
